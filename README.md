@@ -11,9 +11,11 @@ This project provides a tool to obfuscate and modify executable files by:
 - **EXE Morphing:** Combine features of different applications into a single executable.  
 - **Certificate Cloning:** Duplicate and embed digital certificates from trusted executables.  
 - **Junk Function Injection:** Adds random, unused code to increase file complexity.  
-- **Mutation Engine:** Modifies the EXE structure to evade static analysis and signature-based detection.  
-
+- **Mutation Engine:** Modifies the EXE structure to evade static analysis and signature-based detection.
+  
+# Original EXE
 ![Original EXE](1.png)
+# Obfuscated EXE
 ![Obfuscated EXE](2.png)
 
 ## Requirements

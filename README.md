@@ -1,6 +1,8 @@
 # SimpleCrypt
 # EXE Cryptor - Morphing and Mutating EXE Files
 
+> **Disclaimer:** Educational use only. Misuse is prohibited.
+
 This project provides a tool to obfuscate and modify executable files by:  
 - Morphing with functionality from other applications.  
 - Copying digital certificates to maintain legitimacy.  
